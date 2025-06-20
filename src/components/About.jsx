@@ -50,7 +50,7 @@ const About = () => {
         Hello! I’m a Full Stack Developer with over five years’ experience building scalable, high-performance software.
         I specialise in full lifecycle development using Java, Spring Boot, Python, SQL, and Angular, and have delivered robust solutions across sectors including finance, insurance, and telecommunications.
 <br></br>
-      This 3D portfolio site showcases both my engineering skills and attention to detail — it was designed and built entirely from scratch.
+      This portfolio site showcases both my engineering skills and attention to detail — it was designed and built entirely from scratch.
 
       I'm always keen to learn and take on new challenges. Feel free to explore my work — I’d welcome the opportunity to connect.
       </motion.p>
