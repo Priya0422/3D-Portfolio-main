@@ -1,10 +1,3 @@
-<!-- <div align="center">
-
-
-  <h3 align="center">My 3D Developer Portfolio</h3>
-  <a href= "https://kevinmathew247.github.io/3D-Portfolio/"> Check out my portfolio </a>
-</div> -->
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
